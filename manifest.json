@@ -1,0 +1,11 @@
+{
+"manifest_version" : 2,
+"name" :"IlluEtDeten",
+"version" :"0.1.0",
+"description" :"Extention pour voir les streamings d'Illusion et Detenshi",
+"browser_action" :
+	{
+		"default_icon" : "icone.png",
+		"popup" :"dire_bonjour.html"
+	}
+}
